@@ -16,7 +16,7 @@ if (!fs.existsSync(MANAGED_FILES_DIR)) {
 
 // CORS配置 - 只允许Vercel域名和本地开发域名
 const allowedOrigins = [
-  'https://text-editor-app.vercel.app',
+  'https://www.newbox.asia',
   'http://localhost:5173',
   'http://localhost:3000'
 ];
