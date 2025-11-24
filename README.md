@@ -6,7 +6,7 @@
 
 ### 公网链接
 
-本项目部署在Vercel平台：**[https://www.newbox.asia/](https://text-editor-app.vercel.app)**
+本项目部署在Vercel平台：**[https://www.newbox.asia/](https://www.newbox.asia)**
 
 ## 本地环境启动指南
 
