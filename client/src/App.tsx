@@ -59,7 +59,7 @@ const App: React.FC = () => {
   const loadFileContent = useCallback(async (filename: string) => {
     setIsLoading(true);
     try {
-      const data = await getFileContent(filename);
+      const data:any = await getFileContent(filename);
       setCurrentFile(filename);
       setContent(data.content);
       setError('');
